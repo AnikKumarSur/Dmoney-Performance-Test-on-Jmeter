@@ -16,22 +16,6 @@ This repository contains JMeter test plans for performance and functional testin
   ```
 - Place `deposit.csv`, `sendMoney.csv`, and `payment.csv` files in the root directory.
 
----
-
-## File Structure
-```
-├── booking.jmx  # JMeter test plan for Booking API
-├── dmoney.jmx   # JMeter test plan for Dmoney API
-├── resources/
-│   ├── deposit.csv
-│   ├── sendMoney.csv
-│   ├── payment.csv
-├── booking-api-test-report.xlsx
-├── .gitignore
-├── README.md
-```
-
----
 
 ## **Test Scenarios**
 ### **Booking API (Performance Testing)**
